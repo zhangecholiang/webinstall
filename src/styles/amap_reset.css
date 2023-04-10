@@ -1,0 +1,16 @@
+/* 隐藏logo */
+.amap-logo {
+  display: none !important;
+}
+
+/* 隐藏版权号 */
+.amap-copyright {
+  display: none !important;
+}
+
+.amap-marker-label{
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 8px;
+  /* background-color: transparent; */
+}
